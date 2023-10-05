@@ -22,14 +22,8 @@ public class Embarcacion {
         return montoAlquiler;
     }
 
-    public Capitan getCapitan() {
-        return capitan;
-    }
     public double getPrecioBase() {
         return precioBase;
-    }
-    public int getValorAdicional() {
-        return valorAdicional;
     }
     public int getAnnioFabricacion() {
         return annioFabricacion;
@@ -37,14 +31,8 @@ public class Embarcacion {
     public double getEslora() {
         return eslora;
     }
-    public void setCapitan(Capitan capitan) {
-        this.capitan = capitan;
-    }
     public void setPrecioBase(int precioBase) {
         this.precioBase = precioBase;
-    }
-    public void setValorAdicional(int valorAdicional) {
-        this.valorAdicional = valorAdicional;
     }
     public void setAnnioFabricacion(int annioFabricacion) {
         this.annioFabricacion = annioFabricacion;
@@ -52,10 +40,6 @@ public class Embarcacion {
     public void setEslora(double eslora) {
         this.eslora = eslora;
     }
-    public String getDescripcion() {
-        return null;
-    }
-
 }
 
 
