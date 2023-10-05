@@ -1,0 +1,4 @@
+Hola profesor@, en el trabajo entregado cumpli con los parametros recibidos con respecto al trabajo del programa.
+Sin embargo, me hubiera gustado saber como imprimir los capitanes en listas para asi guardar varias personas, funcion por la cual luche por construir sin resultado ya que eran diferentes instancias... eso explica porque solo permite guardar una persona e imprimir la misma.
+Ademas, dentro del "Switch" en la funcion "Imprimir detalles" no supe como imprimir la embarcacion creada por el usuario en el "case 2" por lo que si no se crea una previamente esta aparecera como "Null". 
+Me gustaria frente a la explicacion dada... un feedback de como pude haber realizado estas implementaciones adicionales a mi codigo, gracias :). 
